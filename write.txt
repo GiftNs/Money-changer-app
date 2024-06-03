@@ -1,0 +1,37 @@
+Dollar américain (USD) : 1 GBP = 1,25 USD
+Euro (EUR) : 1 GBP = 1,13 EUR
+Yen japonais (JPY) : 1 GBP = 168,50 JPY
+Dollar canadien (CAD) : 1 GBP = 1,66 CAD
+Franc suisse (CHF) : 1 GBP = 1,12 CHF
+Dollar australien (AUD) : 1 GBP = 1,86 AUD
+Dollar néo-zélandais (NZD) : 1 GBP = 1,98 NZD
+Couronne suédoise (SEK) : 1 GBP = 12,34 SEK
+Couronne norvégienne (NOK) : 1 GBP = 12,53 NOK
+Rouble russe (RUB) : 1 GBP = 93,27 RUB
+Rand sud-africain (ZAR) : 1 GBP = 22,42 ZAR
+Naira nigérian (NGN) : 1 GBP = 584,38 NGN
+Shilling kenyan (KES) : 1 GBP = 154,36 KES
+Dirham marocain (MAD) : 1 GBP = 13,31 MAD
+Livre égyptienne (EGP) : 1 GBP = 31,04 EGP
+Franc CFA (XOF) : 1 GBP = 838,53 XOF
+Shilling ougandais (UGX) : 1 GBP = 4 734,61 UGX
+Rand namibien (NAD) : 1 GBP = 22,42 NAD
+Livre soudanaise (SDG) : 1 GBP = 692,29 SDG
+Dalasi gambien (GMD) : 1 GBP = 70,67 GMD
+1 GBP = 2 995,41 CDF
+<option value="USD">USD</option>
+                >CDF
+               "EUR">EUR
+                "JPY">JPY
+                "CHF">CHF
+                 "AUD">AUD
+                 "NZD">NZD
+                 "SEK">SEK
+                 "NOK">NOK
+                 "RUB">RUB
+                 "ZAR">ZAR
+                 "NGN">NGN
+                 "KES">KES
+                 "MAD">MAD
+                 "ZMW">ZMW
+            >GBP
