@@ -72,11 +72,12 @@ let outputList = document.querySelectorAll(".outputMoneyContainer form select")
 let outputValue = document.getElementById('outputValue')
 let exchangeRate = document.getElementById('exchangeButton')
 
+let eValue = "";
+entryValue.addEventListener("input", (e) => {
+  eValue = e.target.value; 
 
-entryValue.addEventListener("click", () => {
+});
 
-})
-console.log(inputList);
 console.log(outputList);
 let x = 0
 
